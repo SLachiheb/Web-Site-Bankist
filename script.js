@@ -42,7 +42,7 @@ document.addEventListener('keydown', function (e) {
 // COOKIE
 const message = document.createElement('div');
 message.classList.add('cookie-message');
-message.style.padding = '2rem';
+message.style.padding = '3rem';
 message.innerHTML =
   'We use cookied for improved functionality and analytics. <button class="btn btn--close-cookie">Got it!</button>';
 
